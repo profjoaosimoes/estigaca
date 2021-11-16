@@ -1,0 +1,13 @@
+C:\Users\joaos\Desktop\work_with_strings\work_with_strings\work_with_strings\bin\Debug\work_with_strings.exe.config
+C:\Users\joaos\Desktop\work_with_strings\work_with_strings\work_with_strings\bin\Debug\work_with_strings.exe
+C:\Users\joaos\Desktop\work_with_strings\work_with_strings\work_with_strings\bin\Debug\work_with_strings.pdb
+C:\Users\joaos\Desktop\work_with_strings\work_with_strings\work_with_strings\obj\Debug\work_with_strings.csproj.AssemblyReference.cache
+C:\Users\joaos\Desktop\work_with_strings\work_with_strings\work_with_strings\obj\Debug\work_with_strings.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Desktop\work_with_strings\work_with_strings\work_with_strings\obj\Debug\work_with_strings.exe
+C:\Users\joaos\Desktop\work_with_strings\work_with_strings\work_with_strings\obj\Debug\work_with_strings.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula2_work_with_strings\work_with_strings\work_with_strings\bin\Debug\work_with_strings.exe.config
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula2_work_with_strings\work_with_strings\work_with_strings\bin\Debug\work_with_strings.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula2_work_with_strings\work_with_strings\work_with_strings\bin\Debug\work_with_strings.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula2_work_with_strings\work_with_strings\work_with_strings\obj\Debug\work_with_strings.csprojAssemblyReference.cache
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula2_work_with_strings\work_with_strings\work_with_strings\obj\Debug\work_with_strings.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula2_work_with_strings\work_with_strings\work_with_strings\obj\Debug\work_with_strings.pdb
