@@ -1,0 +1,33 @@
+C:\Users\SimãoBoss\Desktop\aula4\aula4\bin\Debug\aula4.exe.config
+C:\Users\SimãoBoss\Desktop\aula4\aula4\bin\Debug\aula4.exe
+C:\Users\SimãoBoss\Desktop\aula4\aula4\bin\Debug\aula4.pdb
+C:\Users\SimãoBoss\Desktop\aula4\aula4\obj\Debug\aula4.csprojAssemblyReference.cache
+C:\Users\SimãoBoss\Desktop\aula4\aula4\obj\Debug\aula4.csproj.CoreCompileInputs.cache
+C:\Users\SimãoBoss\Desktop\aula4\aula4\obj\Debug\aula4.exe
+C:\Users\SimãoBoss\Desktop\aula4\aula4\obj\Debug\aula4.pdb
+C:\Users\SimãoBoss\Desktop\aula3.1\aula4\bin\Debug\aula4.exe.config
+C:\Users\SimãoBoss\Desktop\aula3.1\aula4\bin\Debug\aula4.exe
+C:\Users\SimãoBoss\Desktop\aula3.1\aula4\bin\Debug\aula4.pdb
+C:\Users\SimãoBoss\Desktop\aula3.1\aula4\obj\Debug\aula4.csprojAssemblyReference.cache
+C:\Users\SimãoBoss\Desktop\aula3.1\aula4\obj\Debug\aula4.csproj.CoreCompileInputs.cache
+C:\Users\SimãoBoss\Desktop\aula3.1\aula4\obj\Debug\aula4.exe
+C:\Users\SimãoBoss\Desktop\aula3.1\aula4\obj\Debug\aula4.pdb
+C:\Users\SimãoBoss\Desktop\Stuff\aulas\Ano letivo 20-21\11º PSI\c#\aula3.1\aula4\bin\Debug\aula4.exe.config
+C:\Users\SimãoBoss\Desktop\Stuff\aulas\Ano letivo 20-21\11º PSI\c#\aula3.1\aula4\bin\Debug\aula4.exe
+C:\Users\SimãoBoss\Desktop\Stuff\aulas\Ano letivo 20-21\11º PSI\c#\aula3.1\aula4\bin\Debug\aula4.pdb
+C:\Users\SimãoBoss\Desktop\Stuff\aulas\Ano letivo 20-21\11º PSI\c#\aula3.1\aula4\obj\Debug\aula4.csprojAssemblyReference.cache
+C:\Users\SimãoBoss\Desktop\Stuff\aulas\Ano letivo 20-21\11º PSI\c#\aula3.1\aula4\obj\Debug\aula4.csproj.CoreCompileInputs.cache
+C:\Users\SimãoBoss\Desktop\Stuff\aulas\Ano letivo 20-21\11º PSI\c#\aula3.1\aula4\obj\Debug\aula4.exe
+C:\Users\SimãoBoss\Desktop\Stuff\aulas\Ano letivo 20-21\11º PSI\c#\aula3.1\aula4\obj\Debug\aula4.pdb
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3.1\aula4\bin\Debug\aula4.exe.config
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3.1\aula4\bin\Debug\aula4.exe
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3.1\aula4\bin\Debug\aula4.pdb
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3.1\aula4\obj\Debug\aula4.csproj.CoreCompileInputs.cache
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3.1\aula4\obj\Debug\aula4.exe
+E:\Ano letivo 20-21\11º PSI\c#\modulo 9\aula3.1\aula4\obj\Debug\aula4.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_1_work_with_numbers\aula4\bin\Debug\aula4.exe.config
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_1_work_with_numbers\aula4\bin\Debug\aula4.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_1_work_with_numbers\aula4\bin\Debug\aula4.pdb
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_1_work_with_numbers\aula4\obj\Debug\aula4.csprojAssemblyReference.cache
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_1_work_with_numbers\aula4\obj\Debug\aula4.exe
+E:\Ano letivo 21-22\11º PSI\Modulo 9\aula3_1_work_with_numbers\aula4\obj\Debug\aula4.pdb
